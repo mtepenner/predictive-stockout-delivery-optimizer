@@ -31,7 +31,7 @@ A data-driven supply chain management system designed to anticipate inventory sh
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mtepenner/predictive-stockout-delivery-optimizer.git](https://github.com/mtepenner/predictive-stockout-delivery-optimizer.git)
+   git clone https://github.com/mtepenner/predictive-stockout-delivery-optimizer.git
    cd predictive-stockout-delivery-optimizer
    ```
 
